@@ -15,7 +15,7 @@ This small project showcases the power of C by adding 1 and 1 together (in the s
 
 ### **Core Concepts Demonstrated**
 
-1. **Adding to values together**:
+1. **Adding two values together**:
    - The project adds two values (1 and 1) together.
    - Have I ever mentioned that this program adds 1 and 1 together?
 
